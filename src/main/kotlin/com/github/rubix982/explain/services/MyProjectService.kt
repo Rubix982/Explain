@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.rubix982.explain.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rubix982.explain.MyBundle
 
 class MyProjectService(project: Project) {
 

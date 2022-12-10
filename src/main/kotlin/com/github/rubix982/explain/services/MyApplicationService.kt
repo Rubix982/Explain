@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rubix982.explain.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rubix982.explain.MyBundle
 
 class MyApplicationService {
 
